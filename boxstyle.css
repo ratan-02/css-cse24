@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-box {
+  border: 3px solid black;
+  text-align: center; 
+  padding: 30px;
+  background-color: white;
+}
+
+.outer-box {
+  background-color: blue;     
+  border: 2px solid black;
+  padding: 30px;
+  display: inline-block;
+}
+
+.inner-box {
+  background-color: yellow;     
+  color: black;
+  padding: 20px 40px;
+  border: 1px solid black;
+}
+
