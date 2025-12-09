@@ -33,7 +33,7 @@ nav{
     color:#0a2392;
     cursor: pointer;
 }
-/* tablet &desktop */
+
 @media(min-width: 760px){
     .menu{
         display: flex;
